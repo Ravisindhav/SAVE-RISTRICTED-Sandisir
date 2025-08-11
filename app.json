@@ -1,27 +1,27 @@
 {
   "name": "Restriction Bot",
   "description": "A bot to manage restrictions, log premium activities",
-  "repository": "https://github.com/Sumit0045/RestrictionBot",
+  "repository": "https://github.com/Ravisindhav/SAVE-RISTRICTED-Sandisir",
   "keywords": ["telegram", "bot", "restriction"],
   "env": {
     "BOT_TOKEN": {
-      "description": "The bot token from BotFather.",
+      "description": "8394435620:AAEGLQ-nU2znrOmEq_ksQDSdxQpdVY9bKX0",
       "required": true
     },
     "MONGO_DB": {
-      "description": "MongoDB connection string.",
+      "description": "mongodb+srv://sindhavravi11:%24Sind1234567890@cluster0.bwlgbx3.mongodb.net/sample_mflix?retryWrites=true&w=majority&appName=Cluster0",
       "required": true
     },
     "CHANNEL_ID": {
-      "description": "The Telegram channel ID.",
+      "description": "-1002761572365",
       "required": true
     },
     "OWNER_ID": {
-      "description": "The Telegram user ID of the bot's owner for admin actions.",
+      "description": "5459854363",
       "required": true
     },
     "PREMIUM_LOGS": {
-      "description": "Enable premium activity.",
+      "description": "5459854363",
       "required": false,
       "default": "false"
     }
